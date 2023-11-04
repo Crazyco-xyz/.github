@@ -2,6 +2,9 @@
 
   # This is CrazyCo, welcome to our Github Page!
 </div>
+
+<p align="center"><a href="https://discord.gg/rY5QJtxGbS" target="_blank">Join our discord ❤️</a></p>
+
 <!--
 Pwease support me >.<
 -->  
